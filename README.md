@@ -5,6 +5,7 @@
 # Desbloqueador do Google Forms \[1.7]
 
 > ### Criado por [Mia](https://github.com/xNasuni/)<br>Feito com ❤
+> ### Traduzido por [Momessito](https://github.com/Momessito/)<br>Traduzido com ++ ❤
 
 > \[!IMPORTANTE]<br>Este repositório contém scripts e métodos que burlam o modo bloqueado do Google Forms com facilidade. Se você tiver dificuldades, pode usar a seção de discussões para pedir ajuda.
 
