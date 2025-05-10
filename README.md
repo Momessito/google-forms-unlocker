@@ -1,6 +1,4 @@
-Claro! Aqui está a tradução completa para o português (Brasil):
 
----
 
 ###### tags: modo bloqueado do Google Forms, desbloquear Google Forms, desbloqueador de Google Forms, arrombador de Google Forms, modo bloqueado do Google Forms sem Chromebook
 
