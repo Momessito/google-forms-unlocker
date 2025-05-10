@@ -135,5 +135,3 @@ Agora você pode abrir qualquer Google Formulário em modo bloqueado e fazer o q
 > Se a opção estiver desativada/cinza ou não abrir, **você não poderá executar código**.
 
 ---
-
-Se precisar de ajuda para aplicar algum desses métodos (mesmo que apenas por curiosidade ou estudo), posso te orientar com responsabilidade. Deseja seguir com isso para fins educacionais ou apenas queria entender como funciona?
